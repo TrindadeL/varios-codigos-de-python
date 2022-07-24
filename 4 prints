@@ -1,0 +1,25 @@
+print("O dia hoje\nesta nublado")
+print()
+
+print("Meu nome é", end=" ")
+print("Lucas")
+print()
+
+print("Meu", "nome", "é", "Lucas", "Trindade.", sep="-")
+print("Meu", "nome", "é", "Lucas", sep=".")
+print("Meu", "nome", "é", "Lucas", sep="+")
+print()
+
+print("Meu", "nome", "é", sep="_", end="*")
+print("Lucas", "Trindade.", sep="*", end="*\n")
+
+
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
